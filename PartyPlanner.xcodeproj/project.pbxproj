@@ -12,6 +12,7 @@
 		82746C342224A0D100B606B1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 82746C322224A0D100B606B1 /* Main.storyboard */; };
 		82746C362224A0D200B606B1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 82746C352224A0D200B606B1 /* Assets.xcassets */; };
 		82746C392224A0D200B606B1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 82746C372224A0D200B606B1 /* LaunchScreen.storyboard */; };
+		82746C412224A92100B606B1 /* ItemDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82746C402224A92100B606B1 /* ItemDetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		82746C352224A0D200B606B1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		82746C382224A0D200B606B1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		82746C3A2224A0D200B606B1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		82746C402224A92100B606B1 /* ItemDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				82746C2E2224A0D100B606B1 /* AppDelegate.swift */,
 				82746C302224A0D100B606B1 /* ViewController.swift */,
+				82746C402224A92100B606B1 /* ItemDetailViewController.swift */,
 				82746C322224A0D100B606B1 /* Main.storyboard */,
 				82746C352224A0D200B606B1 /* Assets.xcassets */,
 				82746C372224A0D200B606B1 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				82746C312224A0D100B606B1 /* ViewController.swift in Sources */,
 				82746C2F2224A0D100B606B1 /* AppDelegate.swift in Sources */,
+				82746C412224A92100B606B1 /* ItemDetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
